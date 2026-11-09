@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://henryscherb.com/sitemap.xml
